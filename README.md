@@ -17,5 +17,5 @@ When the Blackjack game runs, it deals two cards to the player--the player can t
 ![Blackjack Simulator Output](Blackjack-Simulator-Output.png)
 <br><br>
 
-## Languages Used
+## Language Used
 - **Python**
