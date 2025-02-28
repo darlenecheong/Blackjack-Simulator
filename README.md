@@ -11,7 +11,11 @@ This project is a Python-based implementation of the classic Blackjack card game
 When the Blackjack game runs, it deals two cards to the player--the player can thereafter "hit" to draw more cards, or "stand" to keep their hand. If the total exceeds 21, the player busts and loses. Once the player finishes their turn, the dealer reveals their hand and draws until reaching at least 17. The game then compares scores to determine the winner. This program provides real-time feedback on hands and scores, and players can make strategic decisions based on their hand totals, while the dealer follows a preset strategy of hitting until reaching 17. However, the code has several limitations and potential improvements. One key issue is the static assignment of Ace values as 1, without considering its flexible values (1 or 11). This limits strategic decision-making and may cause misrepresentation of hands. Another limitation is the reliance on simple list operations to manage the deck. Lastly, the game does not maintain statistics or offer insights into player performance over multiple rounds. Future improvements could include better decision-making for the dealer, a more robust deck-handling system, or a graphical user interface enhancements for better usability.
 
 <sub><sup>Word Count: 186 words</sub></sup>
-
 <br><br>
+
+## Output
+![Blackjack Simulator Output](Blackjack-Simulator-Output.png)
+<br><br>
+
 ## Languages Used
 - **Python**
